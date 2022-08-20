@@ -1,0 +1,1 @@
+# Golang-ellipsis-operator-in-functions
